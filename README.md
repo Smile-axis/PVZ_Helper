@@ -66,10 +66,10 @@
 ![调用僵尸生成函数](https://github.com/Smile-axis/PVZ_Helper/blob/main/%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/%E8%B0%83%E7%94%A8%E5%83%B5%E5%B0%B8%E7%94%9F%E6%88%90%E5%87%BD%E6%95%B0%EF%BC%8C%E5%9C%A81%E8%B7%AF%E7%94%9F%E6%88%90.png)
 
 5.装载钩子，修改僵尸种类并只出现在中路
-![装载钩子，修改僵尸种类并只出现在中路]([https://github.com/Smile-axis/PVZ_Helper/blob/main/%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/%E8%A3%85%E8%BD%BD%E9%92%A9%E5%AD%90.png](https://github.com/Smile-axis/PVZ_Helper/blob/main/%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/%E8%A3%85%E8%BD%BD%E9%92%A9%E5%AD%90.png))
+![装载钩子，修改僵尸种类并只出现在中路](https://github.com/Smile-axis/PVZ_Helper/blob/main/%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/%E8%A3%85%E8%BD%BD%E9%92%A9%E5%AD%90.png)
 
 6.卸载钩子，僵尸生成恢复正常
-![卸载钩子]([https://github.com/Smile-axis/13453/blob/main/%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/%E5%8D%B8%E8%BD%BD%E9%92%A9%E5%AD%90.png](https://github.com/Smile-axis/PVZ_Helper/blob/main/%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/%E5%8D%B8%E8%BD%BD%E9%92%A9%E5%AD%90.png))
+![卸载钩子](https://github.com/Smile-axis/PVZ_Helper/blob/main/%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/%E5%8D%B8%E8%BD%BD%E9%92%A9%E5%AD%90.png))
 
 ---
 
