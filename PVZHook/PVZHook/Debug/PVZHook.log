@@ -1,0 +1,37 @@
+﻿  main.cpp
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(12,34): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(12,34): warning C4309: “初始化”: 截断常量值
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(12,40): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(12,40): warning C4309: “初始化”: 截断常量值
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(12,46): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(12,46): warning C4309: “初始化”: 截断常量值
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(12,52): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(12,52): warning C4309: “初始化”: 截断常量值
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(12,58): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(12,58): warning C4309: “初始化”: 截断常量值
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(74,3): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(74,3): warning C4309: “初始化”: 截断常量值
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(74,9): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(74,9): warning C4309: “初始化”: 截断常量值
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(74,27): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(74,27): warning C4309: “初始化”: 截断常量值
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(74,33): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(74,33): warning C4309: “初始化”: 截断常量值
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(74,39): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(74,39): warning C4309: “初始化”: 截断常量值
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(74,45): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(74,45): warning C4309: “初始化”: 截断常量值
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(74,51): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(74,51): warning C4309: “初始化”: 截断常量值
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(75,15): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(75,15): warning C4309: “初始化”: 截断常量值
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(75,21): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(75,21): warning C4309: “初始化”: 截断常量值
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(75,39): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(75,39): warning C4309: “初始化”: 截断常量值
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(75,45): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(75,45): warning C4309: “初始化”: 截断常量值
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(81,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(161,17): warning C4309: “=”: 截断常量值
+C:\Users\26901\Desktop\PVZHook\PVZHook\main.cpp(162,17): warning C4309: “=”: 截断常量值
+  PVZHook.vcxproj -> C:\Users\26901\Desktop\PVZHook\Debug\PVZHook.dll
