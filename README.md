@@ -38,7 +38,7 @@
 ### 2. 启动与注入
 1. 启动 `popcapgame1.exe`（植物大战僵尸）
 2. 运行 `Injector.exe`，即可完成注入（注入器会通过检索进程名的方式自动获取PID，无需手动输入PID）
-
+3.运行`popcapgame1.exe`后退出，把现有的《植物大战僵尸》原版存档,位于C盘ProgramData文件夹下的PopCap Games\PlantsVsZombie\userdata文件夹 中的内容替换为该项目的`userdata`
 ### 3. 操作
 在控制台窗口输入对应命令：
 
